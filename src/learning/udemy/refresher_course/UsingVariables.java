@@ -10,21 +10,25 @@ public class UsingVariables {
         */
         myNumber = 88;
         System.out.println("this is a integer datatype and the values is "+myNumber);
-        //Short
+            //Short
         short myShort;
         myShort = 900;
         System.out.println("This is a short datatype and its values is "+myShort);
-        //Long datatype
+            //Long datatype
         long myLong;
         myLong = 8588;
         System.out.println("This is the long datatype and its value is "+myLong);
-        //Float
+            //Float
         float myFloat;
         myFloat = 184.5f;
         System.out.println("This is the float datatype and its value is "+myFloat);
-        //Double datatype
+            //Double datatype
         double myDouble;
         myDouble = 184.5;
         System.out.println("This is the float datatype and its value is "+myDouble);
+            //boolen datatype
+        boolean myBoolen;
+        myBoolen = 3>5;
+        System.out.println("This is the boolen datatype and its value is "+myBoolen);
     }
 }
